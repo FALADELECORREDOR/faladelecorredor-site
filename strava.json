@@ -1,0 +1,8 @@
+[
+ {"date":"2026-11-20","name":"Musculação inferiores","type":"Musculação","dist":null,"time":"46 min"},
+ {"date":"2026-11-19","name":"Caminhada na areia","type":"Caminhada","dist":"2,0 km","time":"37 min","desc":"Voltando da lesão"},
+ {"date":"2026-11-18","name":"Pilates matinal","type":"Pilates","dist":null,"time":"33 min"},
+ {"date":"2026-11-08","name":"Hoka Speed Run","type":"Corrida","dist":"14,4 km","time":"1h55","pace":"8:13 /km"},
+ {"date":"2026-10-31","name":"Fartlek 10KM - Praia do Recreio","type":"Corrida","dist":"10,0 km","time":"1h01","pace":"6:06 /km"},
+ {"date":"2026-10-29","name":"Treino - 50 min em Z2","type":"Corrida","dist":"8,2 km","time":"50 min","pace":"6:06 /km"}
+]

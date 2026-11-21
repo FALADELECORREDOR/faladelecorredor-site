@@ -1,0 +1,88 @@
+{
+  "site": {
+    "name": "FALA DELE CORREDOR",
+    "url": "https://www.faladelecorredor.com.br",
+    "email": "faladelecorredor@gmail.com",
+    "instagram": "https://www.instagram.com/faladelecorredor/",
+    "tiktok": "https://www.tiktok.com/@faladelecorredor",
+    "strava": "https://www.strava.com/athletes/1201524984",
+    "updated": "2026-11-21"
+  },
+
+  "promobar": [
+    {"text": "Black Friday: cupons dos parceiros com até 15% OFF", "link": "parceiros.html", "cta": "Ver cupons"},
+    {"text": "Rumo à Meia Maratona do Rio, maio de 2027", "link": "provas.html", "cta": "Ver o plano"},
+    {"text": "Marcas: mídia kit atualizado de novembro", "link": "marcas.html", "cta": "Abrir"}
+  ],
+
+  "numbers": [
+    {"value": "65 mil", "label": "pessoas alcançadas em um único post"},
+    {"value": "149,7 mil", "label": "visualizações no Instagram em 30 dias"},
+    {"value": "66,7%", "label": "das visualizações vêm de quem ainda não me segue"},
+    {"value": "-31 kg", "label": "de 120 kg para 89 kg correndo"}
+  ],
+
+  "instagram": {"period": "14/10 a 12/11/2026", "followers": "2.432", "views": "149,7 mil", "engaged": "3,8 mil", "nonFollowers": "66,7%", "interactions": "11,4 mil", "newFollowers": "+1.146"},
+  "tiktok": {"period": "28 dias até 02/11/2026", "followers": "237", "views": "4,6 mil", "growth": "+41,3%", "best": "626"},
+
+  "audience": {
+    "ages": [["18–24", 2.2], ["25–34", 31.7], ["35–44", 44.1], ["45–54", 13.7], ["55+", 8.2]],
+    "gender": [["Homens", 45.0], ["Mulheres", 42.3], ["Outros", 12.7]],
+    "cities": [["Rio de Janeiro", 49.6], ["Niterói", 5.9], ["São Paulo", 5.4], ["São Gonçalo", 2.4]]
+  },
+
+  "posts": [
+    {"img": "post-sorteio", "type": "Carrossel", "date": "27/10", "title": "Sorteio Circuito das Estações", "big": "65 mil", "bigLabel": "pessoas alcançadas", "note": "5.991 comentários, 271 compartilhamentos e +473 seguidores com um único post.", "url": "https://www.instagram.com/faladelecorredor/p/DfAE44mkXru/"},
+    {"img": "post-5k", "type": "Carrossel", "date": "23/10", "title": "Quão lento é um 5K de 30 minutos?", "big": "19,5 mil", "bigLabel": "visualizações", "note": "12,4 mil contas alcançadas, 57 compartilhamentos e 35 salvamentos.", "url": "https://www.instagram.com/faladelecorredor/p/De18QMUEY2A/"},
+    {"img": "post-ding", "type": "Reels", "date": "23/10", "title": "Quando estiver tendo um dia ruim", "big": "2,8 mil", "bigLabel": "visualizações", "note": "88 curtidas e 17 compartilhamentos.", "url": "https://www.instagram.com/faladelecorredor/reel/De2Dq_6JPE1/"},
+    {"img": "post-veem", "type": "Carrossel", "date": "22/10", "title": "Como meu treinador me vê", "big": "2,4 mil", "bigLabel": "visualizações", "note": "Humor de identificação: 84 curtidas.", "url": "https://www.instagram.com/faladelecorredor/p/DezZdJNEYIi/"},
+    {"img": "post-2mil", "type": "Carrossel", "date": "06/11", "title": "Fala dos 2.000", "big": "1,5 mil", "bigLabel": "visualizações", "note": "16 comentários de parabéns.", "url": "https://www.instagram.com/faladelecorredor/p/DfZ7U-ikXDC/"},
+    {"img": "post-racereport", "type": "Reels", "date": "10/11", "title": "Race report Hoka Speed Run", "big": "759", "bigLabel": "visualizações", "note": "Relato sincero da lesão no km 9.", "url": "https://www.instagram.com/faladelecorredor/reel/DfkH-b0hhRS/"}
+  ],
+
+  "partnerPosts": [
+    {"brand": "Hound Running", "title": "Os 3 testes do meu boné", "img": "partner-hound-3", "type": "Reels", "date": "20/10", "note": "2,4 mil visualizações, 1,8 mil contas alcançadas e 14 comentários, com o cupom FALADELE.", "url": "https://www.instagram.com/faladelecorredor/reel/DeuPIoERTfB/"},
+    {"brand": "Dobro", "title": "O suspense do lançamento", "img": "partner-dobro-2", "type": "Carrossel", "date": "28/10", "note": "Teaser do Sport Whey Protein. 1,4 mil visualizações e 13 comentários com palpites.", "url": "https://www.instagram.com/faladelecorredor/p/DfCs2iHkZYG/"},
+    {"brand": "Viggi", "title": "Fiquei na dúvida, levei os 3", "img": "partner-viggi-bf", "type": "Reels", "date": "11/11", "note": "Black November: compre 2 leve 3 e o cupom FALADELECORREDOR. 674 visualizações em 2 dias.", "url": "https://www.instagram.com/faladelecorredor/reel/DfmwRZBhBvX/"},
+    {"brand": "Hound Running", "title": "Monta o kit comigo", "img": "partner-hound-bf", "type": "Carrossel", "date": "12/11", "note": "Black Friday com a conta aberta de 3 kits: leve 3 pague 2, mais 15% com FALADELE.", "url": "https://www.instagram.com/faladelecorredor/p/DfpPO-UEWoX/"}
+  ],
+
+  "brands": [
+    {"name": "Hound Running", "short": "HOUND", "segment": "Vestuário e acessórios de corrida", "img": "hound-corrida", "url": "https://houndrunning.com.br/", "code": "FALADELE", "off": "15% OFF",
+     "promos": [{"text": "Leve 3, pague 2 na Black Friday", "until": "2026-11-30"}], "result": "Quase R$ 3 mil em vendas pelo meu cupom em um mês."},
+    {"name": "Viggi", "short": "VIGGI", "segment": "Óculos de corrida e acessórios", "img": "selfie-viggi", "url": "https://viggibr.com.br/", "code": "FALADELECORREDOR", "off": "10% OFF",
+     "promos": [{"text": "Black November: compre 2, leve 3", "until": "2026-11-27"}]},
+    {"name": "Dobro", "short": "DOBRO", "segment": "Suplementação: géis, creatina e sais", "img": "dobro-pote", "url": "https://soudobro.com.br/", "code": "DOBROFALADELECORREDOR", "off": "15% OFF", "codeUntil": "2026-11-30",
+     "promos": [{"text": "Lançamento Hidrogel Tech: leve 3, pague 2", "until": null}]}
+  ],
+  "team": {"name": "Hope", "segment": "Assessoria de corrida", "img": "hope", "text": "Treino com a Hope desde outubro de 2026, com o coach Marcelo, rumo à Meia do Rio."},
+
+  "packs": [
+    {"name": "Stories", "body": "De 3 a 5 stories em um dia, com link ou cupom.", "for": "Primeiro teste com a marca"},
+    {"name": "Reels", "body": "1 Reels no feed, versão no TikTok e 3 stories de apoio.", "for": "Lançamento de produto"},
+    {"name": "Jornada", "body": "Uma entrega por mês até a meia maratona, dentro da série da jornada.", "for": "Tênis, roupa, relógio, suplemento"},
+    {"name": "UGC", "body": "Vídeos e fotos para a marca usar nas próprias redes, anúncios e site.", "for": "Conteúdo para anúncio"}
+  ],
+
+  "races": [
+    {"date": "2026-11-08", "name": "Hoka Speed Run Rio", "distance": "15K", "status": "feita", "result": "Lesão no joelho no km 9. Fechei 14,4 km no Strava."},
+    {"date": "2026-12-06", "name": "Circuito das Estações · Verão", "distance": "10K", "status": "inscrito", "result": ""},
+    {"date": "2026-12-31", "name": "Vera Cruz", "distance": "15K", "status": "a confirmar", "result": "Depende da recuperação do joelho."},
+    {"date": "2027-05", "name": "Meia Maratona do Rio", "distance": "21K", "status": "meta", "result": "A prova do ano. Inscrição a confirmar."},
+    {"date": "2027-11", "name": "Hoka Speed Run Rio (Roca)", "distance": "30K", "status": "inscrito", "result": "Comprei na pré-venda pra voltar onde me machuquei."}
+  ],
+  "prs": [["5K", "28:21"], ["7,5K", "45:42"], ["10K", "59:13"], ["15K", "1:33:38"], ["21K", "em breve"]],
+
+  "milestones": [
+    {"when": "Antes", "title": "120 kg e fumante", "text": "O ponto de partida. Nada de corrida, nada de rotina de treino.", "img": ""},
+    {"when": "Abr 2026", "title": "Primeiro treino de corrida", "text": "Comecei no fim de abril, sem saber o que era pace.", "img": ""},
+    {"when": "2026", "title": "Primeiro 10K, no meu aniversário", "text": "Escolhi a data de propósito.", "img": "vermelho"},
+    {"when": "Ago 2026", "title": "Primeira parceria: Hound Running", "text": "O Fala do Fit Check com a Hound abriu a porta para as marcas.", "img": "fitcheck"},
+    {"when": "Out 2026", "title": "Viggi e Dobro chegam", "text": "Novas parcerias. E venci o concurso de lançamento da Dobro com o Treino em DOBRO.", "img": ""},
+    {"when": "Out 2026", "title": "Recordes no 5K e no 15K", "text": "28:21 nos 5 km e 1:33:38 nos 15 km. Entrei na assessoria Hope.", "img": "chegada"},
+    {"when": "27 Out 2026", "title": "Sorteio que alcançou 65 mil pessoas", "text": "Dois kits do Circuito das Estações, 5.991 comentários e +473 seguidores.", "img": "bracos"},
+    {"when": "06 Nov 2026", "title": "2.000 seguidores", "text": "Um mês e pouco depois de virar FALA DELE CORREDOR.", "img": "marco-2000"},
+    {"when": "08 Nov 2026", "title": "A lesão na Hoka Speed Run", "text": "O joelho travou no km 9. Começou o Diário do 21: recuperação contada sem filtro.", "img": "chuva"},
+    {"when": "Mai 2027", "title": "Meia Maratona do Rio", "text": "A primeira meia. O próximo marco.", "img": "", "next": true}
+  ]
+}
